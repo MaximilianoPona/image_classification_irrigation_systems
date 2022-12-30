@@ -1,0 +1,1 @@
+Modelo de detección de campos con equipo de riego
